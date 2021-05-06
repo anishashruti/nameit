@@ -1,0 +1,27 @@
+.head-container{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    margin: top 60px;
+
+}
+
+.header-image{
+    width:auto;
+    transition: max-width 1s,min-width 1s;
+}
+
+.head-text{
+    margin:30px 10px 15px 0;
+}
+
+.header-image-exp{
+    min-width: 300px;
+    max-width: 360px;
+}
+
+.header-image-con{
+    min-width: 200px;
+    max-width: 220px;
+}
