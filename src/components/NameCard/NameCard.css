@@ -1,9 +1,10 @@
 .NameCard-container{
     color:darkslategrey;
     background:rgb(205, 233, 230);
+    margin: 10px 15px;
     min-width:75px;
     padding: 10px 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     box-shadow:0px 0px 5px black ;
     transition: background 0.35s;
     display:flex;
@@ -11,8 +12,8 @@
 }
 
 .NameCard-container:hover{
-    background:rgb(33, 201, 201);
-    box-shadow:0px opx 5px grey;
+    background:rgb(170, 250, 250);
+    box-shadow:0px 0px 5px grey;
 }
 
 .NameCard{
