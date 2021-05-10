@@ -17,6 +17,7 @@ _**Learning Outcomes:**_
 ## Images
 
 ![Image of Project](https://github.com/anishashruti/nameit/blob/main/Name%20Finder.PNG)
+![Image of Project](https://github.com/anishashruti/nameit/blob/main/Name%20Finder1.PNG)
 
 ## How to use this?
 
