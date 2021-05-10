@@ -8,7 +8,7 @@ const NameCard = ({ suggested }) => {
         
         <div className="NameCard-container">
             
-            <a href={`${NameCheap}${suggested}`}>
+            <a className="result-name-link" href={`${NameCheap}${suggested}`}>
             <p className="NameCard">
                 {suggested}
             </p>

@@ -8,7 +8,7 @@ const Results = ({ suggested }) => {
         return <NameCard key={suggested } suggested={suggested }/>
 });
     return (
-        <div classname="results-container">
+        <div className="results-container">
             {suggestedResults}
         </div>
     );

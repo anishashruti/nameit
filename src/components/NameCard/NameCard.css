@@ -1,26 +1,31 @@
 .NameCard-container{
-    color:darkslategrey;
-    background:rgb(205, 233, 230);
-    margin: 10px 15px;
-    min-width:75px;
+    background: rgb(205, 233, 230);
+    display: flex;
+    justify-content: center;
     padding: 10px 20px;
+    min-width: 75px;
+    flex-direction: row;
     border-radius: 10px;
-    box-shadow:0px 0px 5px black ;
-    transition: background 0.35s;
-    display:flex;
-    justify-content:center;
+    -webkit-transition: background 0.35s; /* Safari */
+    transition: background 0.35s, min-width 1s;
+    box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.1);
+    margin: 10px 15px;
+
 }
 
 .NameCard-container:hover{
     background:rgb(170, 250, 250);
     box-shadow:0px 0px 5px grey;
+    transform: scale(1.05);
 }
 
 .NameCard{
     margin:0;
     font-weight: 100;
 }
-
-a {
+.result-name-link {
+    color: #051f2b;
     text-decoration: none;
-  }
+    font-weight: 900;
+    font-size:25px;
+}
