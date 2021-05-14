@@ -2,7 +2,7 @@
 This project helps anyone figure out the right name for their startups.
 
 ## Deployed Project
-http://anishashruti.github.io/nameit/
+[Find you Project/Startup Name](http://anishashruti.github.io/nameit/)
 
 ## Things I Learned from this Project:
 _**Learning Outcomes:**_
